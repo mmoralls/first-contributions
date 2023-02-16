@@ -25,6 +25,7 @@ Pashyant Srivastava
 -[Gianna Crisha P. Saludo](https://github.com/giannacrisha)
 -[Sumesh Kuchya](https://github.com/developer-sumesh)
 -[Mike Wazowsaki]
+-[Mark Moralls](https://github.com/mmoralls)
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Prajakta Bimalkhedkar] (https://github.com/PrajaktaB27)
 -[Sebastian Seician](https://github.com/cbastn)
